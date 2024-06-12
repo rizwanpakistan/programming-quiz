@@ -1,0 +1,62 @@
+body {
+    background-color: #7289da !important;
+    font-family: "Albert Sans", sans-serif;
+}
+
+.divCoding {
+    border-radius: 12px;
+    background-color: rgb(6, 13, 13);
+    padding: 10px;
+    color: aliceblue;
+    font-size: 30px;
+    margin: 15px;
+}
+
+.fa-html5 {
+    font-size: 50px;
+    color: #e34c26;
+}
+
+.fa-css3 {
+    font-size: 50px;
+    color: #0091ea;
+}
+
+.fa-js {
+    font-size: 50px;
+    color: #f0db4f;
+}
+
+.fa-node {
+    font-size: 50px;
+    color: #3c873a;
+}
+
+.fa-react {
+    font-size: 50px;
+    color: #61dafb;
+}
+
+.fa-database {
+    font-size: 50px;
+    color: #3c4c44;
+}
+
+.fa-java {
+    font-size: 50px;
+    color: #f89820;
+}
+
+.fa-python {
+    font-size: 50px;
+    color: #fbcb24;
+}
+
+.fa-regular {
+    font-size: 50px;
+    color: #cc0000;
+}
+
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
